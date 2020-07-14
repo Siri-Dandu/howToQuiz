@@ -14,6 +14,7 @@
 		2C6CB13D24BDF88A00B62508 /* howToQuiz.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 2C6CB13B24BDF88A00B62508 /* howToQuiz.xcdatamodeld */; };
 		2C6CB13F24BDF88B00B62508 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2C6CB13E24BDF88B00B62508 /* Assets.xcassets */; };
 		2C6CB14224BDF88B00B62508 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2C6CB14024BDF88B00B62508 /* LaunchScreen.storyboard */; };
+		2C6CB14A24BDF9F300B62508 /* resultsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C6CB14924BDF9F300B62508 /* resultsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		2C6CB13E24BDF88B00B62508 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2C6CB14124BDF88B00B62508 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2C6CB14324BDF88B00B62508 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2C6CB14924BDF9F300B62508 /* resultsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = resultsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				2C6CB13424BDF88A00B62508 /* SceneDelegate.swift */,
 				2C6CB13624BDF88A00B62508 /* ViewController.swift */,
 				2C6CB13824BDF88A00B62508 /* Main.storyboard */,
+				2C6CB14924BDF9F300B62508 /* resultsViewController.swift */,
 				2C6CB13E24BDF88B00B62508 /* Assets.xcassets */,
 				2C6CB14024BDF88B00B62508 /* LaunchScreen.storyboard */,
 				2C6CB14324BDF88B00B62508 /* Info.plist */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2C6CB14A24BDF9F300B62508 /* resultsViewController.swift in Sources */,
 				2C6CB13D24BDF88A00B62508 /* howToQuiz.xcdatamodeld in Sources */,
 				2C6CB13724BDF88A00B62508 /* ViewController.swift in Sources */,
 				2C6CB13324BDF88A00B62508 /* AppDelegate.swift in Sources */,
